@@ -1,0 +1,22 @@
+
+### What is this repository for? ###
+
+* Simple Express skeleton with handlbars for templating.
+
+### How to run locally ###
+
+* `git clone git@github.com:SquishyAndroid/express-skeleton.git`
+* `cd node-app`
+* `npm install`
+* `npm start`
+* Enter `http://localhost:3000` in your browser
+
+### Tech Stack ###
+
+* Node.js
+* Express.js
+* Handlebars
+
+### Who do I talk to? ###
+
+* Bradley Engelhardt <brad.engelhardt@gmail.com>
